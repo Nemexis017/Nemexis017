@@ -15,10 +15,10 @@ campo.
 
 ### Experiencia 
 
-uve la valiosa oportunidad de formar parte del proyecto de extensión tecnológica
+Tuve la valiosa oportunidad de formar parte del proyecto de extensión tecnológica
 en el SENA, donde mi labor consistió en la creación de páginas web destinadas a 
 microempresas. Posteriormente, desarrollé una plataforma para la institución 
-educativa donde me gradué, encargada de la gestión integral del personal, y actual mente
+educativa donde me gradué, encargada de la gestión integral del personal, y actualmente
 trabajo para `TDI S.A.S`
 
 ### Educación
